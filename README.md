@@ -1,3 +1,3 @@
 # Hello-World
 learning repository
-hello there..
+hello there.. This project is about learning the Github
